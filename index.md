@@ -21,6 +21,8 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+[Schematische Cognitive Service.xlsx](https://github.com/teundeclercq/Research-AI-services/files/5765295/Schematische.Cognitive.Service.xlsx) 
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
