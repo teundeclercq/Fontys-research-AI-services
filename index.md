@@ -27,121 +27,101 @@
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <th>Naam service</th>
-        <th>Platform Cloud Hosting</th>
         <th>Onderzocht</th>
         <th>Conclusie</th>
     </tr>
     <tr>
         <td>Language Understanding</td>
-        <td>Microsoft Azure</td>
         <td>✅</td>
         <td></td>
     </tr>
     <tr>
         <td>QnA Maker</td>
-        <td>Microsoft Azure</td>
         <td>✅</td>
         <td>[Veelgestelde vragen onderzoek][link2]</td>
     </tr>
     <tr>
         <td>Bot Framework SDK</td>
-        <td>Microsoft Azure</td>
         <td>✅</td>
         <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769467/BotFramework.SDK.Microsoft.Azure.zip">Bot Framework SDK</a></td>
     </tr>
     <tr>
         <td>Anomaly Detector</td>
-        <td>Microsoft Azure</td>
         <td>✅</td>
         <td></td>
     </tr>
     <tr>
         <td>Content Moderator</td>
-        <td>Microsoft Azure</td>
         <td>🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Personalizer</td>
-        <td>Microsoft Azure</td>
         <td>🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Metrics Advisor</td>
-        <td>Microsoft Azure</td>
         <td>🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Text analytics</td>
-        <td>Microsoft Azure</td>
         <td>🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Translator</td>
-        <td>Microsoft Azure</td>
         <td>🚫</td>
         <td></td>
     </tr>    
     <tr>
         <td>Insluitende lezer</td>
-        <td>Microsoft Azure</td>
         <td>🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Speech to Text</td>
-        <td>Microsoft Azure</td>
         <td>🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Text to Speech</td>
-        <td>Microsoft Azure</td>
         <td>🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Speech Translation </td>
-        <td>Microsoft Azure</td>
         <td>🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Computer Vision</td>
-        <td>Microsoft Azure</td>
         <td>✅</td>
         <td></td>
     </tr>
     <tr>
         <td>Custom Vision</td>
-        <td>Microsoft Azure</td>
         <td>✅</td>
         <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5768963/Onderzoek.customAI.pdf">Custom Vision AI</a></td>
     </tr>
     <tr>
         <td>Face Recognition</td>
-        <td>Microsoft Azure</td>
         <td>🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Form Recognizer</td>
-        <td>Microsoft Azure</td>
         <td>🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Video Indexer</td>
-        <td>Microsoft Azure</td>
         <td>🚫</td>
         <td></td>
     </tr>    
     <tr>
         <td>Video Indexer</td>
-        <td>Microsoft Azure</td>
         <td>🚫</td>
         <td></td>
     </tr>
@@ -154,28 +134,113 @@
    <table>
     <tr>
        <th>Naam service</th>
-       <th>Platform Cloud Hosting</th>
        <th>Onderzocht</th>
        <th>Conclusie</th>
     </tr>
     <tr>
-        <td>Face detection</td>
-        <td>Google Cloud Firebase ML Kit</td>    
+        <td>Face detection</td>   
         <td>✅</td>
-        <td></td>
+        <td>
+                    <a href="">POC onderzoek</a>
+                    <br>
+                    <a href="">Veelgestelde vragen onderzoek</a>
+        </td>
     </tr>    
     <tr>
-        <td>Text Recognition</td>
-        <td>Google Cloud Firebase ML Kit</td>    
+        <td>Text Recognition</td>   
         <td>✅</td>
+        <td>
+            <a href="">POC onderzoek</a>
+            <br>
+            <a href="">Veelgestelde vragen onderzoek</a>
+        </td>
+    </tr>
+    <tr>
+        <td>Dialogflow</td>   
+        <td>✅</td>
+        <td><a href="">Veelgestelde vragen onderzoek</a></td>
+    </tr>
+    <tr>
+        <td>Image labelling</td>   
+        <td>✅</td>
+        <td><a href="">POC onderzoek</a></td>
+    </tr>
+    <tr>
+        <td>Object detection</td>   
+        <td>✅</td>
+        <td><a href="">POC onderzoek</a></td>
+    </tr>
+    <tr>
+        <td>Speech-to-text</td>   
+        <td>🚫</td>
         <td></td>
     </tr>
     <tr>
-        <td>Dialogflow</td>
-        <td>Google Cloud</td>    
-        <td>✅</td>
+        <td>Text-to-speech</td>   
+        <td>🚫</td>
         <td></td>
     </tr>
+    <tr>
+        <td>Contact center AI</td>   
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Natural Language</td>   
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Translation</td>   
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Vision OCR</td>   
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Document AI API</td>   
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Invoice parser</td>   
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Form parser</td>   
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Base OCR</td>   
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Base OCR</td>   
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Media Translation</td>   
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Healthcare Natural Language</td>   
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Recommendations AI</td>   
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    
    </table>
 
 </div>
