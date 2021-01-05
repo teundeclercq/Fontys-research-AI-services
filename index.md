@@ -6,7 +6,7 @@
 
 [Custom vision AI - Azure][Onderzoek customAI.pdf]
 
-## prototypes
+## Prototypes
 
 
 
