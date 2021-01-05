@@ -18,7 +18,7 @@
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Azure')">Azure</button>
+  <button class="tablinks active" onclick="openCity(event, 'Azure')">Azure</button>
   <button class="tablinks" onclick="openCity(event, 'Google')">Google</button>
 </div>
 
