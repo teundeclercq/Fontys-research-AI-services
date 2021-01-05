@@ -16,22 +16,10 @@
 
 ## Prototypes 
 
-<!-- Tab links -->
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')">Azure</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Google</button>
-</div>
-
-<!-- Tab content -->
-<div id="London" class="tabcontent">
-  
 | Naam service/Product | Platform Cloud Hosting | Onderzocht | Conclusie |
 | :------------------: | :--------------------: | :--------: | :-------: |
-|  Language Understanding | Microsoft Azure | ✅ | [Onderzoek Stagegesprek bot][link] <br> [Onderzoek internbot][link2] |
-|  QnA Maker | Microsoft Azure | ✅ | [Veelgestelde vragen onderzoek][link2] |
-|  Bot Framework SDK | Microsoft Azure | ✅ | [Bot Framework SDK - Azure][BotFramework SDK Microsoft Azure.zip] |
-|  Anomaly Detector | Microsoft Azure | ✅ | 
-|  Content Moderator | Microsoft Azure | 🚫 | 
+|   |  |  | 
+|   |  |  | 
 |  Personalizer | Microsoft Azure | 🚫 |
 |  Metrics Advisor | Microsoft Azure | 🚫 | 
 |  Text analytics |Microsoft Azure | 🚫 |
@@ -50,40 +38,59 @@
 |  Text Recognition | Google Cloud Firebase ML Kit | ✅ |
 |  Diaglogflow | Google Cloud | ✅ | [Veel gestelde vragen onderzoek][link2]  |
 
+
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Azure')">Azure</button>
+  <button class="tablinks" onclick="openCity(event, 'Google')">Google</button>
 </div>
 
-<div id="Paris" class="tabcontent">
- 
-| Naam service/Product | Platform Cloud Hosting | Onderzocht | Conclusie |
-| :------------------: | :--------------------: | :--------: | :-------: |
-|  Language Understanding | Microsoft Azure | ✅ | [Onderzoek Stagegesprek bot][link] <br> [Onderzoek internbot][link2] |
-|  QnA Maker | Microsoft Azure | ✅ | [Veelgestelde vragen onderzoek][link2] |
-|  Bot Framework SDK | Microsoft Azure | ✅ | [Bot Framework SDK - Azure][BotFramework SDK Microsoft Azure.zip] |
-|  Anomaly Detector | Microsoft Azure | ✅ | 
-|  Content Moderator | Microsoft Azure | 🚫 | 
-|  Personalizer | Microsoft Azure | 🚫 |
-|  Metrics Advisor | Microsoft Azure | 🚫 | 
-|  Text analytics |Microsoft Azure | 🚫 |
-|  Translator | Microsoft Azure | 🚫 | 
-|  Insluitende lezer | Microsoft Azure | 🚫 |
-|  Speech to Text |Microsoft Azure | 🚫 |
-|  Text to Speech | Microsoft Azure | 🚫 |
-|  Speech Translation | Microsoft Azure | 🚫 |
-|  Speaker Recognition | Microsoft Azure | 🚫 |
-|  Computer Vision | Microsoft Azure | ✅ | 
-|  Custom Vision | Microsoft Azure | ✅ | [Onderzoek custom AI][Onderzoek customAI.pdf] |
-|  Face Recognition | Microsoft Azure | 🚫 | 
-|  Form Recognizer | Microsoft Azure | 🚫 | 
-|  Video Indexer | Microsoft Azure | 🚫 | 
-|  Face Detection | Google Cloud Firebase ML Kit | ✅ | 
-|  Text Recognition | Google Cloud Firebase ML Kit | ✅ |
-|  Diaglogflow | Google Cloud | ✅ | [Veel gestelde vragen onderzoek][link2]  | 
-
-</div>
-
-<div id="Tokyo" class="tabcontent">
+<!-- Tab content -->
+<div id="Azure" class="tabcontent">
+  <table>
+    <tr>
+        <th>Naam service/Product</th>
+        <th>Platform Cloud Hosting</th>
+        <th>Onderzocht</th>
+        <th>Conclusie</th>
+    </tr>
+    <tr>
+        <td>Language Understanding</td>
+        <td>Microsoft Azure</td>
+        <td>✅</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>QnA Maker</td>
+        <td>Microsoft Azure</td>
+        <td>✅</td>
+        <td>[Veelgestelde vragen onderzoek][link2]</td>
+    </tr>
+    <tr>
+        <td>Bot Framework SDK</td>
+        <td>Microsoft Azure</td>
+        <td>✅</td>
+        <td>[Bot Framework SDK - Azure][BotFramework SDK Microsoft Azure.zip]</td>
+    </tr>
+    <tr>
+        <td>Anomaly Detector</td>
+        <td>Microsoft Azure</td>
+        <td>✅</td>
+    </tr>
+    <tr>
+        <td>Content Moderator</td>
+        <td>Microsoft Azure</td>
+        <td>🚫</td>
+    </tr>
+  </table>
   
-</div> 
+
+</div>
+
+<div id="Google" class="tabcontent">
+
+</div>
+
 
 <script>
 function openCity(evt, cityName) {
