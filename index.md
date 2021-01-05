@@ -18,9 +18,8 @@
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+  <button class="tablinks" onclick="openCity(event, 'London')">Azure</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Google</button>
 </div>
 
 <!-- Tab content -->
