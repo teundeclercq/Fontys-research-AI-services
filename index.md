@@ -18,7 +18,7 @@
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Azure')">Azure</button>
+  <button class="tablinks active" onclick="openCity(event, 'Azure')">Azure</button>
   <button class="tablinks" onclick="openCity(event, 'Google')">Google</button>
 </div>
 
@@ -26,7 +26,7 @@
 <div id="Azure" class="tabcontent">
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
-        <th>Naam service/Product</th>
+        <th>Naam service</th>
         <th>Platform Cloud Hosting</th>
         <th>Onderzocht</th>
         <th>Conclusie</th>
@@ -153,7 +153,7 @@
 <div id="Google" class="tabcontent">
    <table>
     <tr>
-       <th>Naam service/Product</th>
+       <th>Naam service</th>
        <th>Platform Cloud Hosting</th>
        <th>Onderzocht</th>
        <th>Conclusie</th>
