@@ -23,7 +23,7 @@
 </div>
 
 <!-- Tab content -->
-<div id="Azure" class="tabcontent active">
+<div id="Azure" class="tabcontent" style="display: block;">
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <th>Naam service</th>
