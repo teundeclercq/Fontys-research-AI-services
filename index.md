@@ -4,6 +4,8 @@
 
 ## Proof of concepts
 
+[POC - Custom vision AI - Azure][Onderzoek customAI.pdf]
+
 ## prototypes
 
 
