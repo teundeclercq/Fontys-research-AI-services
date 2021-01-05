@@ -18,12 +18,12 @@
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks active" onclick="openCity(event, 'Azure')">Azure</button>
+  <button class="tablinks" onclick="openCity(event, 'Azure')">Azure</button>
   <button class="tablinks" onclick="openCity(event, 'Google')">Google</button>
 </div>
 
 <!-- Tab content -->
-<div id="Azure" class="tabcontent">
+<div id="Azure" class="tabcontent active">
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <th>Naam service</th>
