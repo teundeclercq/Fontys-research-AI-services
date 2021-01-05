@@ -6,6 +6,7 @@
 
 💬 [Intern bot][Internbot.zip]
 
+<br>
 
 ## AI services 
 
@@ -33,7 +34,7 @@ Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
     <tr>
         <td>QnA Maker</td>
         <td>✅</td>
-        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip">Veel gestelde vragen - onderzoek</a></td>
+        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip">Dienst IT bot - onderzoek</a></td>
     </tr>
     <tr>
         <td>Bot Framework SDK</td>
@@ -126,7 +127,7 @@ Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
 </div>
 
 <div id="Google" class="tabcontent">
-   <table>
+   <table style="margin-left: auto; margin-right: auto;">
     <tr>
        <th>Naam service</th>
        <th>Onderzocht</th>
@@ -153,7 +154,7 @@ Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
     <tr>
         <td>Dialogflow</td>   
         <td>✅</td>
-        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip">Veelgestelde vragen onderzoek</a></td>
+        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip">Dienst IT bot - onderzoek</a></td>
     </tr>
     <tr>
         <td>Image labelling</td>   
