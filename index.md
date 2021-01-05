@@ -1,20 +1,15 @@
-# Leeswijzer
+## Concept onderzoeken
 
-## Concept onderzoek
+🤖 [Dienst IT bot][Dienst it bot.zip]
 
-## Proof of concepts
+📝 [CV checker][CV Checker.zip]
 
-[Custom vision AI - Azure][Onderzoek customAI.pdf]
+💬 [Intern bot][Internbot.zip]
 
-[Face detection - Google][Face detection - Google.zip]
 
-[Image labelling - Google][Image labelling - Google.zip]
+## AI services 
 
-[Object detection - Google][Object detection - Google.zip]
-
-[Text recognition - Google][Text recognition - Google.zip]
-
-## Prototypes 
+Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
 
 <!-- Tab links -->
 <div class="tab">
@@ -38,17 +33,27 @@
     <tr>
         <td>QnA Maker</td>
         <td>✅</td>
-        <td>[Veelgestelde vragen onderzoek][link2]</td>
+        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip">Veel gestelde vragen - onderzoek</a></td>
     </tr>
     <tr>
         <td>Bot Framework SDK</td>
         <td>✅</td>
-        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769467/BotFramework.SDK.Microsoft.Azure.zip">Bot Framework SDK</a></td>
+        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769467/BotFramework.SDK.Microsoft.Azure.zip">Bot Framework SDK - onderzoek</a></td>
     </tr>
     <tr>
         <td>Anomaly Detector</td>
         <td>✅</td>
         <td></td>
+    </tr>
+    <tr>
+        <td>Computer Vision</td>
+        <td>✅</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Custom Vision</td>
+        <td>✅</td>
+        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5768963/Onderzoek.customAI.pdf">Custom Vision AI - onderzoek</a></td>
     </tr>
     <tr>
         <td>Content Moderator</td>
@@ -96,16 +101,6 @@
         <td></td>
     </tr>
     <tr>
-        <td>Computer Vision</td>
-        <td>✅</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Custom Vision</td>
-        <td>✅</td>
-        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5768963/Onderzoek.customAI.pdf">Custom Vision AI</a></td>
-    </tr>
-    <tr>
         <td>Face Recognition</td>
         <td>🚫</td>
         <td></td>
@@ -141,34 +136,34 @@
         <td>Face detection</td>   
         <td>✅</td>
         <td>
-                    <a href="">POC onderzoek</a>
+                    <a href="https://github.com/teundeclercq/Research-AI-services/files/5769353/Face.detection.-.Google.zip">Face detection - onderzoek</a>
                     <br>
-                    <a href="">Veelgestelde vragen onderzoek</a>
+                    <a href="https://github.com/teundeclercq/Research-AI-services/files/5770430/CV.Checker.zip">CV checker - onderzoek</a>
         </td>
     </tr>    
     <tr>
         <td>Text Recognition</td>   
         <td>✅</td>
         <td>
-            <a href="">POC onderzoek</a>
+            <a href="https://github.com/teundeclercq/Research-AI-services/files/5769359/Text.recognition.-.Google.zip">Text Recognition - onderzoek</a>
             <br>
-            <a href="">Veelgestelde vragen onderzoek</a>
+            <a href="https://github.com/teundeclercq/Research-AI-services/files/5770430/CV.Checker.zip">CV checker - onderzoek</a>
         </td>
     </tr>
     <tr>
         <td>Dialogflow</td>   
         <td>✅</td>
-        <td><a href="">Veelgestelde vragen onderzoek</a></td>
+        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip">Veelgestelde vragen onderzoek</a></td>
     </tr>
     <tr>
         <td>Image labelling</td>   
         <td>✅</td>
-        <td><a href="">POC onderzoek</a></td>
+        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769356/Image.labelling.-.Google.zip">Image labelling - onderzoek</a></td>
     </tr>
     <tr>
         <td>Object detection</td>   
         <td>✅</td>
-        <td><a href="">POC onderzoek</a></td>
+        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769358/Object.detection.-.Google.zip">Object detection - onderzoek</a></td>
     </tr>
     <tr>
         <td>Speech-to-text</td>   
@@ -246,6 +241,7 @@
 </div>
 
 
+
 <script>
 function openCity(evt, cityName) {
   // Declare all variables
@@ -306,8 +302,7 @@ function openCity(evt, cityName) {
 } 
 </style>
 
-
-[Schematische Cognitive Service.xlsx]:https://github.com/teundeclercq/Research-AI-services/files/5765295/Schematische.Cognitive.Service.xlsx
+[Overzicht AI service onderzoek.xlsx]:https://github.com/teundeclercq/Research-AI-services/files/5770573/Overzicht.AI.service.onderzoek.xlsx
 [Onderzoek customAI.pdf]:https://github.com/teundeclercq/Research-AI-services/files/5768963/Onderzoek.customAI.pdf
 [Face detection - Google.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769353/Face.detection.-.Google.zip
 [Image labelling - Google.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769356/Image.labelling.-.Google.zip
@@ -315,7 +310,9 @@ function openCity(evt, cityName) {
 [Text recognition - Google.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769359/Text.recognition.-.Google.zip
 [BotFramework SDK Microsoft Azure.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769467/BotFramework.SDK.Microsoft.Azure.zip
 
+[Dienst it bot.zip]:https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip
+[CV Checker.zip]:https://github.com/teundeclercq/Research-AI-services/files/5770430/CV.Checker.zip
+
 
 [Internbot.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769471/Internbot.zip
 
-[CV Checker.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769469/CV.Checker.zip
