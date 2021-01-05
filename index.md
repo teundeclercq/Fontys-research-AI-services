@@ -16,29 +16,6 @@
 
 ## Prototypes 
 
-| Naam service/Product | Platform Cloud Hosting | Onderzocht | Conclusie |
-| :------------------: | :--------------------: | :--------: | :-------: |
-|   |  |  | 
-|   |  |  | 
-|  Personalizer | Microsoft Azure | 🚫 |
-|  Metrics Advisor | Microsoft Azure | 🚫 | 
-|  Text analytics |Microsoft Azure | 🚫 |
-|  Translator | Microsoft Azure | 🚫 | 
-|  Insluitende lezer | Microsoft Azure | 🚫 |
-|  Speech to Text |Microsoft Azure | 🚫 |
-|  Text to Speech | Microsoft Azure | 🚫 |
-|  Speech Translation | Microsoft Azure | 🚫 |
-|  Speaker Recognition | Microsoft Azure | 🚫 |
-|  Computer Vision | Microsoft Azure | ✅ | 
-|  Custom Vision | Microsoft Azure | ✅ | [Onderzoek custom AI][Onderzoek customAI.pdf] |
-|  Face Recognition | Microsoft Azure | 🚫 | 
-|  Form Recognizer | Microsoft Azure | 🚫 | 
-|  Video Indexer | Microsoft Azure | 🚫 | 
-|  Face Detection | Google Cloud Firebase ML Kit | ✅ | 
-|  Text Recognition | Google Cloud Firebase ML Kit | ✅ |
-|  Diaglogflow | Google Cloud | ✅ | [Veel gestelde vragen onderzoek][link2]  |
-
-
 <!-- Tab links -->
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Azure')">Azure</button>
@@ -47,7 +24,7 @@
 
 <!-- Tab content -->
 <div id="Azure" class="tabcontent">
-  <table>
+  <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <th>Naam service/Product</th>
         <th>Platform Cloud Hosting</th>
@@ -70,17 +47,103 @@
         <td>Bot Framework SDK</td>
         <td>Microsoft Azure</td>
         <td>✅</td>
-        <td>[Bot Framework SDK - Azure][BotFramework SDK Microsoft Azure.zip]</td>
+        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769467/BotFramework.SDK.Microsoft.Azure.zip">Bot Framework SDK</a></td>
     </tr>
     <tr>
         <td>Anomaly Detector</td>
         <td>Microsoft Azure</td>
         <td>✅</td>
+        <td></td>
     </tr>
     <tr>
         <td>Content Moderator</td>
         <td>Microsoft Azure</td>
         <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Personalizer</td>
+        <td>Microsoft Azure</td>
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Metrics Advisor</td>
+        <td>Microsoft Azure</td>
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Text analytics</td>
+        <td>Microsoft Azure</td>
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Translator</td>
+        <td>Microsoft Azure</td>
+        <td>🚫</td>
+        <td></td>
+    </tr>    
+    <tr>
+        <td>Insluitende lezer</td>
+        <td>Microsoft Azure</td>
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Speech to Text</td>
+        <td>Microsoft Azure</td>
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Text to Speech</td>
+        <td>Microsoft Azure</td>
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Speech Translation </td>
+        <td>Microsoft Azure</td>
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Computer Vision</td>
+        <td>Microsoft Azure</td>
+        <td>✅</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Custom Vision</td>
+        <td>Microsoft Azure</td>
+        <td>✅</td>
+        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5768963/Onderzoek.customAI.pdf">Custom Vision AI</a></td>
+    </tr>
+    <tr>
+        <td>Face Recognition</td>
+        <td>Microsoft Azure</td>
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Form Recognizer</td>
+        <td>Microsoft Azure</td>
+        <td>🚫</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Video Indexer</td>
+        <td>Microsoft Azure</td>
+        <td>🚫</td>
+        <td></td>
+    </tr>    
+    <tr>
+        <td>Video Indexer</td>
+        <td>Microsoft Azure</td>
+        <td>🚫</td>
+        <td></td>
     </tr>
   </table>
   
@@ -88,6 +151,32 @@
 </div>
 
 <div id="Google" class="tabcontent">
+   <table>
+    <tr>
+       <th>Naam service/Product</th>
+       <th>Platform Cloud Hosting</th>
+       <th>Onderzocht</th>
+       <th>Conclusie</th>
+    </tr>
+    <tr>
+        <td>Face detection</td>
+        <td>Google Cloud Firebase ML Kit</td>    
+        <td>✅</td>
+        <td></td>
+    </tr>    
+    <tr>
+        <td>Text Recognition</td>
+        <td>Google Cloud Firebase ML Kit</td>    
+        <td>✅</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Dialogflow</td>
+        <td>Google Cloud</td>    
+        <td>✅</td>
+        <td></td>
+    </tr>
+   </table>
 
 </div>
 
@@ -116,7 +205,6 @@ function openCity(evt, cityName) {
 </script>
 
 <style>
- /* Style the tab */
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
