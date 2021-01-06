@@ -42,105 +42,105 @@ Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
   <table class="table">
   <thead>
     <tr>
-        <th class="col-sm-5">Naam service</th>
-        <th class="col-sm-2">Onderzocht</th>
-        <th class="col-sm-5">Conclusie</th>
+        <th scope="col">Naam service</th>
+        <th scope="col">Onderzocht</th>
+        <th scope="col">Conclusie</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td>Language Understanding</td>
-        <td>✅</td>
+        <td class="checkbox">✅</td>
         <td></td>
     </tr>
     <tr>
         <td>QnA Maker</td>
-        <td>✅</td>
+        <td class="checkbox">✅</td>
         <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip">Dienst IT bot - onderzoek</a></td>
     </tr>
     <tr>
         <td>Bot Framework SDK</td>
-        <td>✅</td>
+        <td class="checkbox">✅</td>
         <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769467/BotFramework.SDK.Microsoft.Azure.zip">Bot Framework SDK - onderzoek</a></td>
     </tr>
     <tr>
         <td>Anomaly Detector</td>
-        <td>✅</td>
+        <td class="checkbox">✅</td>
         <td></td>
     </tr>
     <tr>
         <td>Computer Vision</td>
-        <td>✅</td>
+        <td class="checkbox">✅</td>
         <td></td>
     </tr>
     <tr>
         <td>Custom Vision</td>
-        <td>✅</td>
+        <td class="checkbox">✅</td>
         <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5768963/Onderzoek.customAI.pdf">Custom Vision AI - onderzoek</a></td>
     </tr>
     <tr>
         <td>Content Moderator</td>
-        <td>🚫</td>
+        <td class="checkbox">🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Personalizer</td>
-        <td>🚫</td>
+        <td class="checkbox">🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Metrics Advisor</td>
-        <td>🚫</td>
+        <td class="checkbox">🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Text analytics</td>
-        <td>🚫</td>
+        <td class="checkbox">🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Translator</td>
-        <td>🚫</td>
+        <td class="checkbox">🚫</td>
         <td></td>
     </tr>    
     <tr>
         <td>Insluitende lezer</td>
-        <td>🚫</td>
+        <td class="checkbox">🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Speech to Text</td>
-        <td>🚫</td>
+        <td class="checkbox">🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Text to Speech</td>
-        <td>🚫</td>
+        <td class="checkbox">🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Speech Translation </td>
-        <td>🚫</td>
+        <td class="checkbox">🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Face Recognition</td>
-        <td>🚫</td>
+        <td class="checkbox">🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Form Recognizer</td>
-        <td>🚫</td>
+        <td class="checkbox">🚫</td>
         <td></td>
     </tr>
     <tr>
         <td>Video Indexer</td>
-        <td>🚫</td>
+        <td class="checkbox">🚫</td>
         <td></td>
     </tr>    
     <tr>
         <td>Video Indexer</td>
-        <td>🚫</td>
+        <td class="checkbox">🚫</td>
         <td></td>
     </tr>
     </tbody>
@@ -152,118 +152,122 @@ Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
 </div>
 
 <div id="Google" class="tabcontent">
-   <table style="margin-left: auto; margin-right: auto;">
-    <tr>
-       <th>Naam service</th>
-       <th>Onderzocht</th>
-       <th>Conclusie</th>
-    </tr>
-    <tr>
-        <td>Face detection</td>   
-        <td>✅</td>
-        <td>
-                    <a href="https://github.com/teundeclercq/Research-AI-services/files/5769353/Face.detection.-.Google.zip">Face detection - onderzoek</a>
+    <div class="table-responsive">
+           <table class="table">
+           <thead>
+            <tr>
+               <th scope="col">Naam service</th>
+               <th scope="col">Onderzocht</th>
+               <th scope="col">Conclusie</th>
+            </tr>
+           </thead>
+            <tbody>
+            <tr>
+                <td>Face detection</td>   
+                <td class="checkbox">✅</td>
+                <td>
+                            <a href="https://github.com/teundeclercq/Research-AI-services/files/5769353/Face.detection.-.Google.zip">Face detection - onderzoek</a>
+                            <br>
+                            <a href="https://github.com/teundeclercq/Research-AI-services/files/5770430/CV.Checker.zip">CV checker - onderzoek</a>
+                </td>
+            </tr>    
+            <tr>
+                <td>Text Recognition</td>   
+                <td class="checkbox">✅</td>
+                <td>
+                    <a href="https://github.com/teundeclercq/Research-AI-services/files/5769359/Text.recognition.-.Google.zip">Text Recognition - onderzoek</a>
                     <br>
                     <a href="https://github.com/teundeclercq/Research-AI-services/files/5770430/CV.Checker.zip">CV checker - onderzoek</a>
-        </td>
-    </tr>    
-    <tr>
-        <td>Text Recognition</td>   
-        <td>✅</td>
-        <td>
-            <a href="https://github.com/teundeclercq/Research-AI-services/files/5769359/Text.recognition.-.Google.zip">Text Recognition - onderzoek</a>
-            <br>
-            <a href="https://github.com/teundeclercq/Research-AI-services/files/5770430/CV.Checker.zip">CV checker - onderzoek</a>
-        </td>
-    </tr>
-    <tr>
-        <td>Dialogflow</td>   
-        <td>✅</td>
-        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip">Dienst IT bot - onderzoek</a></td>
-    </tr>
-    <tr>
-        <td>Image labelling</td>   
-        <td>✅</td>
-        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769356/Image.labelling.-.Google.zip">Image labelling - onderzoek</a></td>
-    </tr>
-    <tr>
-        <td>Object detection</td>   
-        <td>✅</td>
-        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769358/Object.detection.-.Google.zip">Object detection - onderzoek</a></td>
-    </tr>
-    <tr>
-        <td>Speech-to-text</td>   
-        <td>🚫</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Text-to-speech</td>   
-        <td>🚫</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Contact center AI</td>   
-        <td>🚫</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Natural Language</td>   
-        <td>🚫</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Translation</td>   
-        <td>🚫</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Vision OCR</td>   
-        <td>🚫</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Document AI API</td>   
-        <td>🚫</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Invoice parser</td>   
-        <td>🚫</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Form parser</td>   
-        <td>🚫</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Base OCR</td>   
-        <td>🚫</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Base OCR</td>   
-        <td>🚫</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Media Translation</td>   
-        <td>🚫</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Healthcare Natural Language</td>   
-        <td>🚫</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Recommendations AI</td>   
-        <td>🚫</td>
-        <td></td>
-    </tr>
-    
-   </table>
-
+                </td>
+            </tr>
+            <tr>
+                <td>Dialogflow</td>   
+                <td class="checkbox">✅</td>
+                <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip">Dienst IT bot - onderzoek</a></td>
+            </tr>
+            <tr>
+                <td>Image labelling</td>
+                <td class="checkbox">✅</td>
+                <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769356/Image.labelling.-.Google.zip">Image labelling - onderzoek</a></td>
+            </tr>
+            <tr>
+                <td>Object detection</td>   
+                <td class="checkbox">✅</td>
+                <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769358/Object.detection.-.Google.zip">Object detection - onderzoek</a></td>
+            </tr>
+            <tr>
+                <td>Speech-to-text</td>   
+                <td class="checkbox">🚫</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Text-to-speech</td>   
+                <td class="checkbox">🚫</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Contact center AI</td>   
+                <td class="checkbox">🚫</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Natural Language</td>   
+                <td class="checkbox">🚫</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Translation</td>   
+                <td class="checkbox">🚫</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Vision OCR</td>   
+                <td class="checkbox">🚫</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Document AI API</td>   
+                <td class="checkbox">🚫</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Invoice parser</td>   
+                <td class="checkbox">🚫</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Form parser</td>   
+                <td class="checkbox">🚫</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Base OCR</td>   
+                <td class="checkbox">🚫</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Base OCR</td>   
+                <td class="checkbox">🚫</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Media Translation</td>   
+                <td class="checkbox">🚫</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Healthcare Natural Language</td>   
+                <td class="checkbox">🚫</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Recommendations AI</td>   
+                <td class="checkbox">🚫</td>
+                <td></td>
+            </tr>
+            </tbody>        
+       </table>
+    </div>
 </div>
 
 
@@ -293,6 +297,13 @@ function openCity(evt, cityName) {
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
 
 <style>
+.checkbox {
+    text-align: center; 
+    vertical-align: middle; 
+    min-width:30px; 
+    min-height: 30px;
+}
+
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
