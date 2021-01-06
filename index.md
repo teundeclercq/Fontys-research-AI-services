@@ -38,12 +38,16 @@ Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
 
 <!-- Tab content -->
 <div id="Azure" class="tabcontent" style="display: block;">
-  <table style="margin-left: auto; margin-right: auto;">
+  <div class="table-responsive">
+  <table class="table">
+  <thead>
     <tr>
         <th>Naam service</th>
         <th>Onderzocht</th>
         <th>Conclusie</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
         <td>Language Understanding</td>
         <td>✅</td>
@@ -139,7 +143,10 @@ Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
         <td>🚫</td>
         <td></td>
     </tr>
+    </tbody>
   </table>
+  
+  </div>
   
 
 </div>
@@ -283,6 +290,7 @@ function openCity(evt, cityName) {
   evt.currentTarget.className += " active";
 } 
 </script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
 
 <style>
 .tab {
