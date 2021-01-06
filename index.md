@@ -51,7 +51,7 @@ Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
     <tr>
         <td>Language Understanding</td>
         <td class="checkbox">✅</td>
-        <td></td>
+        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769471/Internbot.zip">Intern bot - onderzoek</a></td>
     </tr>
     <tr>
         <td>QnA Maker</td>
@@ -61,22 +61,36 @@ Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
     <tr>
         <td>Bot Framework SDK</td>
         <td class="checkbox">✅</td>
-        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769467/BotFramework.SDK.Microsoft.Azure.zip">Bot Framework SDK - onderzoek</a></td>
-    </tr>
-    <tr>
-        <td>Anomaly Detector</td>
-        <td class="checkbox">✅</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Computer Vision</td>
-        <td class="checkbox">✅</td>
-        <td></td>
+        <td>
+            <a href="https://github.com/teundeclercq/Research-AI-services/files/5769467/BotFramework.SDK.Microsoft.Azure.zip">Bot Framework SDK - onderzoek</a>
+            <br>
+            <a href="https://github.com/teundeclercq/Research-AI-services/files/5769471/Internbot.zip">Intern bot - onderzoek</a>
+        </td>
     </tr>
     <tr>
         <td>Custom Vision</td>
         <td class="checkbox">✅</td>
         <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5768963/Onderzoek.customAI.pdf">Custom Vision AI - onderzoek</a></td>
+    </tr>
+    <tr>
+        <td>Anomaly Detector</td>
+        <td class="checkbox">✅</td>
+        <td><a href="https://github.com/JayvHelderen/AzureCognitiveServicesPOC/tree/main/POC-AzureCognitiveServices/AnomalyDetector">Anomaly detector - github</a></td>
+    </tr>
+    <tr>
+        <td>Speech to Text</td>
+        <td class="checkbox">✅</td>
+        <td><a href="https://github.com/JayvHelderen/AzureCognitiveServicesPOC/tree/main/POC-AzureCognitiveServices/SpeechPOC">Speech to text - githubd</a></td>
+    </tr>
+    <tr>
+        <td>Bing custom search</td>
+        <td class="checkbox">✅</td>
+        <td><a href="https://github.com/JayvHelderen/AzureCognitiveServicesPOC/tree/main/POC-AzureCognitiveServices/BingSearch">Bing search - github</a></td>
+    </tr>
+    <tr>
+        <td>Computer Vision</td>
+        <td class="checkbox">🚫</td>
+        <td></td>
     </tr>
     <tr>
         <td>Content Moderator</td>
@@ -105,11 +119,6 @@ Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
     </tr>    
     <tr>
         <td>Insluitende lezer</td>
-        <td class="checkbox">🚫</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Speech to Text</td>
         <td class="checkbox">🚫</td>
         <td></td>
     </tr>
