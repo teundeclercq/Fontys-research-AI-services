@@ -4,7 +4,17 @@
 
 <br>
 
-## Concept onderzoeken
+## Probleemstelling
+
+Op Fontys heeft de dienst IT veel big data beschikbaar van studenten. Ook heeft de dienst IT een gratis Azure account beschikbaar waar Azure verschillende services vrijgeven. Dienst IT gebruikt zowel de big data als de Azure services minimaal en wilt hier meer onderzoek naar doen. Dienst IT heeft gevraagd of we de services inzichtelijk kunnen maken en een probleem in het onderwijs kunnen tackelen met gebruik van deze services. 
+
+## De opdracht
+
+In het project zal er met gebruik van een AI service een oplossing ontwikkeld worden voor een probleem gerelateerd aan het onderwijs van Fontys. Door het onderzoeken welke problemen zich bevinden in deze context kunnen we bepalen wat er uiteindelijk opgelost gaat worden. 
+
+<br>
+
+### Concept onderzoeken
 
 🤖 [Dienst IT bot][Dienst it bot.zip]
 
@@ -14,7 +24,7 @@
 
 <br>
 
-## AI services 
+### AI services 
 
 Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
 
