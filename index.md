@@ -42,9 +42,9 @@ Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
   <table class="table">
   <thead>
     <tr>
-        <th>Naam service</th>
-        <th>Onderzocht</th>
-        <th>Conclusie</th>
+        <th class="col-sm-5">Naam service</th>
+        <th class="col-sm-2">Onderzocht</th>
+        <th class="col-sm-5">Conclusie</th>
     </tr>
   </thead>
   <tbody>
