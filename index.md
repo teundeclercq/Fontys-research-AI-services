@@ -75,17 +75,17 @@ Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
     <tr>
         <td>Anomaly Detector</td>
         <td class="checkbox">✅</td>
-        <td><a href="https://github.com/JayvHelderen/AzureCognitiveServicesPOC/tree/main/POC-AzureCognitiveServices/AnomalyDetector">Anomaly detector - github</a></td>
+        <td><a href="https://github.com/JayvHelderen/AzureCognitiveServicesPOC/tree/main/POC-AzureCognitiveServices/AnomalyDetector">Anomaly detector - source code</a></td>
     </tr>
     <tr>
         <td>Speech to Text</td>
         <td class="checkbox">✅</td>
-        <td><a href="https://github.com/JayvHelderen/AzureCognitiveServicesPOC/tree/main/POC-AzureCognitiveServices/SpeechPOC">Speech to text - githubd</a></td>
+        <td><a href="https://github.com/JayvHelderen/AzureCognitiveServicesPOC/tree/main/POC-AzureCognitiveServices/SpeechPOC">Speech to text - source code</a></td>
     </tr>
     <tr>
         <td>Bing custom search</td>
         <td class="checkbox">✅</td>
-        <td><a href="https://github.com/JayvHelderen/AzureCognitiveServicesPOC/tree/main/POC-AzureCognitiveServices/BingSearch">Bing search - github</a></td>
+        <td><a href="https://github.com/JayvHelderen/AzureCognitiveServicesPOC/tree/main/POC-AzureCognitiveServices/BingSearch">Bing custom search - source code</a></td>
     </tr>
     <tr>
         <td>Computer Vision</td>
