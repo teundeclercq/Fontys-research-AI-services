@@ -1,8 +1,4 @@
-# Hoofdonderzoek
-
-<h4><a href="https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip">Dienst IT bot - onderzoek</a></h4>
-
-<br>
+_Fontys is de grootste hogeschool van Zuid-Nederland. Zij leidt haar studenten op om van betekenis te zijn in de maatschappij. Studenten leren bij Fontys om oplossingen te bedenken voor de snel veranderende samenleving._ 
 
 ## Probleemstelling
 
@@ -11,6 +7,12 @@ Op Fontys heeft de dienst IT veel big data beschikbaar van studenten. Ook heeft 
 ## De opdracht
 
 In het project zal er met gebruik van een AI service een oplossing ontwikkeld worden voor een probleem gerelateerd aan het onderwijs van Fontys. Door het onderzoeken welke problemen zich bevinden in deze context kunnen we bepalen wat er uiteindelijk opgelost gaat worden. 
+
+<br>
+
+# Hoofdonderzoek
+
+<h4><a href="https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip">Dienst IT bot - onderzoek</a></h4>
 
 <br>
 
