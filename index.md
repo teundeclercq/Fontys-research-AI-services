@@ -12,7 +12,8 @@ In het project zal er met gebruik van een AI service een oplossing ontwikkeld wo
 
 # Hoofdonderzoek
 
-<h4><a href="https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip">Dienst IT bot - onderzoek</a></h4>
+
+<h4><a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5780348/Hoofdonderzoek.zip">Hoofdonderzoek</a></h4>
 
 <br>
 
@@ -28,7 +29,7 @@ In het project zal er met gebruik van een AI service een oplossing ontwikkeld wo
 
 ## AI services 
 
-Voor een uitgebreid overzicht [klik hier][Overzicht AI service onderzoek.xlsx].
+Voor een uitgebreid overzicht [klik hier][Bijlage A Overzicht AI service onderzoek.xlsx].
 
 <!-- Tab links -->
 <div class="tab">
@@ -349,7 +350,7 @@ function openCity(evt, cityName) {
 } 
 </style>
 
-[Overzicht AI service onderzoek.xlsx]:https://github.com/teundeclercq/Research-AI-services/files/5770573/Overzicht.AI.service.onderzoek.xlsx
+[Bijlage A Overzicht AI service onderzoek.xlsx]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5780361/Bijlage.A.Overzicht.AI.service.onderzoek.xlsx
 [Onderzoek customAI.pdf]:https://github.com/teundeclercq/Research-AI-services/files/5768963/Onderzoek.customAI.pdf
 [Face detection - Google.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769353/Face.detection.-.Google.zip
 [Image labelling - Google.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769356/Image.labelling.-.Google.zip
@@ -362,4 +363,5 @@ function openCity(evt, cityName) {
 
 
 [Internbot.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769471/Internbot.zip
+[Hoofdonderzoek.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5780348/Hoofdonderzoek.zip
 
