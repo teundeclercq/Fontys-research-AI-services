@@ -66,6 +66,8 @@ Voor een uitgebreid overzicht [klik hier][Bijlage A Overzicht AI service onderzo
             <a href="https://github.com/teundeclercq/Research-AI-services/files/5769467/BotFramework.SDK.Microsoft.Azure.zip">Bot Framework SDK - onderzoek</a>
             <br>
             <a href="https://github.com/teundeclercq/Research-AI-services/files/5769471/Internbot.zip">Intern bot - onderzoek</a>
+            <br>
+            <a href="https://github.com/rubenfalkenburg/Internbot">Intern bot - source code</a>
         </td>
     </tr>
     <tr>
