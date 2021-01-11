@@ -52,7 +52,7 @@ Voor een uitgebreid overzicht [klik hier][Bijlage A Overzicht AI service onderzo
     <tr>
         <td>Language Understanding</td>
         <td class="checkbox">✅</td>
-        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769471/Intern.bot.zip">Intern bot - onderzoek</a></td>
+        <td><a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794708/Intern.bot.zip">Intern bot - onderzoek</a></td>
     </tr>
     <tr>
         <td>QnA Maker</td>
@@ -178,7 +178,7 @@ Voor een uitgebreid overzicht [klik hier][Bijlage A Overzicht AI service onderzo
                 <td>
                             <a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794716/Face.detection.-.Google.zip">Face detection - onderzoek</a>
                             <br>
-                            <a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794706/CV.Checker.zip">CV checker - onderzoek</a>
+                            <a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5795161/CV.Checker.zip">CV checker - onderzoek</a>
                 </td>
             </tr>    
             <tr>
@@ -187,7 +187,7 @@ Voor een uitgebreid overzicht [klik hier][Bijlage A Overzicht AI service onderzo
                 <td>
                     <a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794720/Text.recognition.-.Google.zip">Text Recognition - onderzoek</a>
                     <br>
-                    <a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794706/CV.Checker.zip">CV checker - onderzoek</a>
+                    <a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5795161/CV.Checker.zip">CV checker - onderzoek</a>
                 </td>
             </tr>
             <tr>
@@ -361,8 +361,7 @@ function openCity(evt, cityName) {
 
 [Dienst it bot.zip]:https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip
 
-[CV Checker.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5794706/CV.Checker.zip
-
+[CV Checker.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5795161/CV.Checker.zip
 
 [Intern bot.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5794708/Intern.bot.zip
 
