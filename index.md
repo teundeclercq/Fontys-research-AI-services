@@ -13,7 +13,7 @@ In het project zal er met gebruik van een AI service een oplossing ontwikkeld wo
 # Hoofdonderzoek
 
 
-<h4><a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5780348/Hoofdonderzoek.zip">Hoofdonderzoek</a></h4>
+<h4><a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794701/Hoofdonderzoek.zip">Hoofdonderzoek</a></h4>
 
 <br>
 
@@ -23,7 +23,7 @@ In het project zal er met gebruik van een AI service een oplossing ontwikkeld wo
 
 📝 [CV checker][CV Checker.zip]
 
-💬 [Intern bot][Internbot.zip]
+💬 [Intern bot][Intern bot.zip]
 
 <br>
 
@@ -52,7 +52,7 @@ Voor een uitgebreid overzicht [klik hier][Bijlage A Overzicht AI service onderzo
     <tr>
         <td>Language Understanding</td>
         <td class="checkbox">✅</td>
-        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769471/Internbot.zip">Intern bot - onderzoek</a></td>
+        <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769471/Intern.bot.zip">Intern bot - onderzoek</a></td>
     </tr>
     <tr>
         <td>QnA Maker</td>
@@ -63,11 +63,9 @@ Voor een uitgebreid overzicht [klik hier][Bijlage A Overzicht AI service onderzo
         <td>Bot Framework SDK</td>
         <td class="checkbox">✅</td>
         <td>
-            <a href="https://github.com/teundeclercq/Research-AI-services/files/5769467/BotFramework.SDK.Microsoft.Azure.zip">Bot Framework SDK - onderzoek</a>
+            <a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794714/Bot.framework.sdk.zip">Bot Framework SDK - onderzoek</a>
             <br>
-            <a href="https://github.com/teundeclercq/Research-AI-services/files/5769471/Internbot.zip">Intern bot - onderzoek</a>
-            <br>
-            <a href="https://github.com/rubenfalkenburg/Internbot">Intern bot - source code</a>
+            <a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794708/Intern.bot.zip">Intern bot - onderzoek</a>
         </td>
     </tr>
     <tr>
@@ -78,17 +76,17 @@ Voor een uitgebreid overzicht [klik hier][Bijlage A Overzicht AI service onderzo
     <tr>
         <td>Anomaly Detector</td>
         <td class="checkbox">✅</td>
-        <td><a href="https://github.com/JayvHelderen/AzureCognitiveServicesPOC/tree/main/POC-AzureCognitiveServices/AnomalyDetector">Anomaly detector - source code</a></td>
+        <td><a href="https://github.com/teundeclercq/Onderzoek-AI-services/tree/main/POC_AnomalyDetector">Anomaly detector - source code</a></td>
     </tr>
     <tr>
         <td>Speech to Text</td>
         <td class="checkbox">✅</td>
-        <td><a href="https://github.com/JayvHelderen/AzureCognitiveServicesPOC/tree/main/POC-AzureCognitiveServices/SpeechPOC">Speech to text - source code</a></td>
+        <td><a href="https://github.com/teundeclercq/Onderzoek-AI-services/tree/main/POC_Speech_Azure">Speech to text - source code</a></td>
     </tr>
     <tr>
         <td>Bing custom search</td>
         <td class="checkbox">✅</td>
-        <td><a href="https://github.com/JayvHelderen/AzureCognitiveServicesPOC/tree/main/POC-AzureCognitiveServices/BingSearch">Bing custom search - source code</a></td>
+        <td><a href="https://github.com/teundeclercq/Onderzoek-AI-services/tree/main/POC_BingSearch">Bing custom search - source code</a></td>
     </tr>
     <tr>
         <td>Computer Vision</td>
@@ -178,18 +176,18 @@ Voor een uitgebreid overzicht [klik hier][Bijlage A Overzicht AI service onderzo
                 <td>Face detection</td>   
                 <td class="checkbox">✅</td>
                 <td>
-                            <a href="https://github.com/teundeclercq/Research-AI-services/files/5769353/Face.detection.-.Google.zip">Face detection - onderzoek</a>
+                            <a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794716/Face.detection.-.Google.zip">Face detection - onderzoek</a>
                             <br>
-                            <a href="https://github.com/teundeclercq/Research-AI-services/files/5770430/CV.Checker.zip">CV checker - onderzoek</a>
+                            <a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794706/CV.Checker.zip">CV checker - onderzoek</a>
                 </td>
             </tr>    
             <tr>
                 <td>Text Recognition</td>   
                 <td class="checkbox">✅</td>
                 <td>
-                    <a href="https://github.com/teundeclercq/Research-AI-services/files/5769359/Text.recognition.-.Google.zip">Text Recognition - onderzoek</a>
+                    <a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794720/Text.recognition.-.Google.zip">Text Recognition - onderzoek</a>
                     <br>
-                    <a href="https://github.com/teundeclercq/Research-AI-services/files/5770430/CV.Checker.zip">CV checker - onderzoek</a>
+                    <a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794706/CV.Checker.zip">CV checker - onderzoek</a>
                 </td>
             </tr>
             <tr>
@@ -200,12 +198,12 @@ Voor een uitgebreid overzicht [klik hier][Bijlage A Overzicht AI service onderzo
             <tr>
                 <td>Image labelling</td>
                 <td class="checkbox">✅</td>
-                <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769356/Image.labelling.-.Google.zip">Image labelling - onderzoek</a></td>
+                <td><a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794718/Image.labelling.-.Google.zip">Image labelling - onderzoek</a></td>
             </tr>
             <tr>
                 <td>Object detection</td>   
                 <td class="checkbox">✅</td>
-                <td><a href="https://github.com/teundeclercq/Research-AI-services/files/5769358/Object.detection.-.Google.zip">Object detection - onderzoek</a></td>
+                <td><a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794719/Object.detection.-.Google.zip">Object detection - onderzoek</a></td>
             </tr>
             <tr>
                 <td>Speech-to-text</td>   
@@ -354,16 +352,22 @@ function openCity(evt, cityName) {
 
 [Bijlage A Overzicht AI service onderzoek.xlsx]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5780361/Bijlage.A.Overzicht.AI.service.onderzoek.xlsx
 [Onderzoek customAI.pdf]:https://github.com/teundeclercq/Research-AI-services/files/5768963/Onderzoek.customAI.pdf
-[Face detection - Google.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769353/Face.detection.-.Google.zip
-[Image labelling - Google.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769356/Image.labelling.-.Google.zip
-[Object detection - Google.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769358/Object.detection.-.Google.zip
-[Text recognition - Google.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769359/Text.recognition.-.Google.zip
-[BotFramework SDK Microsoft Azure.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769467/BotFramework.SDK.Microsoft.Azure.zip
+
+[Bot framework sdk.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5794714/Bot.framework.sdk.zip
+[Face detection - Google.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5794716/Face.detection.-.Google.zip
+[Image labelling - Google.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5794718/Image.labelling.-.Google.zip
+[Object detection - Google.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5794719/Object.detection.-.Google.zip
+[Text recognition - Google.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5794720/Text.recognition.-.Google.zip
 
 [Dienst it bot.zip]:https://github.com/teundeclercq/Research-AI-services/files/5770429/Dienst.it.bot.zip
-[CV Checker.zip]:https://github.com/teundeclercq/Research-AI-services/files/5770430/CV.Checker.zip
+
+[CV Checker.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5794706/CV.Checker.zip
 
 
-[Internbot.zip]:https://github.com/teundeclercq/Research-AI-services/files/5769471/Internbot.zip
-[Hoofdonderzoek.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5780348/Hoofdonderzoek.zip
+[Intern bot.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5794708/Intern.bot.zip
+
+
+[Hoofdonderzoek.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5794701/Hoofdonderzoek.zip
+
+
 
