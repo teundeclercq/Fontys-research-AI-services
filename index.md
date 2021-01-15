@@ -13,7 +13,7 @@ In het project zal er met gebruik van een AI service een oplossing ontwikkeld wo
 # Hoofdonderzoek
 
 
-<h4><a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5794701/Hoofdonderzoek.zip">Hoofdonderzoek</a></h4>
+<h4><a href="https://github.com/teundeclercq/Onderzoek-AI-services/files/5819922/Hoofdonderzoek.zip">Hoofdonderzoek</a></h4>
 
 <br>
 
@@ -366,7 +366,6 @@ function openCity(evt, cityName) {
 [Intern bot.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5794708/Intern.bot.zip
 
 
-[Hoofdonderzoek.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5794701/Hoofdonderzoek.zip
 
-
+[Hoofdonderzoek.zip]:https://github.com/teundeclercq/Onderzoek-AI-services/files/5819922/Hoofdonderzoek.zip
 
